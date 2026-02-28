@@ -1,6 +1,6 @@
-# FUTURE_INTERN_DS_01
 
-Task 1 – Sales Dashboard Development
+
+##Sales Dashboard Development
 
 As part of my internship with **Future Interns**, I developed an **interactive Sales Dashboard using Microsoft Power BI** to provide actionable insights into sales performance and customer behavior. The objective was to enable business stakeholders to easily identify revenue trends, top-performing regions, and high-value customers, thereby improving data-driven decision-making.
 
@@ -39,8 +39,4 @@ This dashboard was designed to **empower decision-makers** with **real-time busi
 * Detect seasonal and weekly sales patterns for better forecasting.
 * Drive efficiency through **data-backed strategies**.
 
-Through this project, I strengthened my skills in **business intelligence, data analytics, Power BI, and interactive reporting**, making complex datasets more **accessible, insightful, and actionable**.
 
----
-
-✨ *This project highlights the power of data visualization to transform raw data into strategic insights.*
